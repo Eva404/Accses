@@ -10,4 +10,4 @@
 # pip2 install mechanize 
 # git clonehttps://github.com/James404-cyber/Accses.github
 # cd Accses
-# python2 GetToken.python2
+# python2 GetToken.py
